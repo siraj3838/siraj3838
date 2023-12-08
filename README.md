@@ -4,7 +4,7 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=whatsapp-dark2&card_width=850)](https://git.io/streak-stats)
-## :computer: What I know
+## :computer: Which Technology I know
 <br/>
 <p align="center">
 <img style='width:120px; height: 70px' src="https://i.ibb.co/SsDFjDZ/Screenshot-2023-12-09-021118.png"/>
