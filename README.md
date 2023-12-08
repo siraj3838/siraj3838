@@ -6,7 +6,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=whatsapp-dark2&card_width=850)](https://git.io/streak-stats)
 ## :computer: Which Technology I know
 ### Front-End: ⤵️
-#### I use HTML, CSS, Tailwind CSS and Daisy UI for front-end UI design and React Js for dynamic route. Uses JavaScript for functionality and calculations.
+I use HTML, CSS, Tailwind CSS and Daisy UI for front-end UI design and React Js for dynamic route. Uses JavaScript for functionality and calculations.
 <br/>
 <p align="center">
 <img style='width:120px; height: 70px' src="https://i.ibb.co/SsDFjDZ/Screenshot-2023-12-09-021118.png"/>
