@@ -6,7 +6,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=whatsapp-dark2&card_width=850)](https://git.io/streak-stats)
 ## :computer: What I know
 <br/>
-<div align="center">
+<div style="display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;">
 <img style='width:120px; height: 100px' src="https://i.ibb.co/pKtqPLH/React-removebg-preview.png"/>
 <img style='width:45px; height: 45px' src="https://i.ibb.co/zHBnxNp/Screenshot-2023-12-09-005550.png"/>
 <img style='width:65px; height: 65px' src="https://i.ibb.co/3m6Y0Nj/node-js.jpg"/>
