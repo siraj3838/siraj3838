@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
 <img style='width:120px; height: 100px' src="https://i.ibb.co/pKtqPLH/React-removebg-preview.png"/>
-<img style='width:65px; height: 65px' src="https://i.ibb.co/zHBnxNp/Screenshot-2023-12-09-005550.png"/>
+<img style='width:45px; height: 45px' src="https://i.ibb.co/zHBnxNp/Screenshot-2023-12-09-005550.png"/>
 <img style='width:65px; height: 65px' src="https://i.ibb.co/3m6Y0Nj/node-js.jpg"/>
 <img style='width:100px; height: 65px' src="https://i.ibb.co/VjmPzWS/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purp.png"/>
 </div>
