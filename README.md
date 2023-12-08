@@ -1,7 +1,7 @@
 
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+
 <img src="https://i.ibb.co/Xpx4SjW/1683909809034.png" />
-</a>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=whatsapp-dark2&card_width=850)](https://git.io/streak-stats)
 ## :computer: Which Technology I know
