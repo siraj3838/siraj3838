@@ -4,8 +4,6 @@
 </a>
 
 <br/>
-My Streak: ⤵️
-<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=prussian&card_width=1010)](https://git.io/streak-stats)
 
