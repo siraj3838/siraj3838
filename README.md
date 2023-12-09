@@ -27,7 +27,7 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 <p align="center">
 <img style='width:120px; height: 70px' src="https://i.ibb.co/9VL9pTB/Screenshot-2023-12-09-024157.png"/>
 <img style='width:120px; height: 70px' src="https://i.ibb.co/56fNMK5/Screenshot-2023-12-09-021703.png"/>
-<img style='width:120px; height: 70px' src="https://i.ibb.co/VjmPzWS/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purp.png"/>
+<img style='width:150px; height: 70px' src="https://i.ibb.co/VjmPzWS/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purp.png"/>
 </p>
 <br/>
 
