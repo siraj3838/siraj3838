@@ -8,11 +8,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=prussian&card_width=1010)](https://git.io/streak-stats)
 
 
-## 🌐 My Socials site:
-<a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/WKmohammad.sakil)
 
-  <br/>
 
 ## :computer: Which Technology I know
 ### Front-End: ⤵️
@@ -34,6 +30,13 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 <img style='width:150px; height: 70px' src="https://i.ibb.co/VjmPzWS/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purp.png"/>
 </p>
 <br/>
+
+
+## 🌐 My Socials site:
+<a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/WKmohammad.sakil)
+
+  <br/>
 
 
 ## My STATS
