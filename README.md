@@ -3,8 +3,7 @@
 </a>
 
 <br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=whatsapp-dark2&card_width=850)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=prussian)](https://git.io/streak-stats)
 ## :computer: Which Technology I know
 ### Front-End: ⤵️
 I use HTML, CSS, Tailwind CSS and Daisy UI for front-end UI design and React Js for dynamic route. Uses JavaScript for functionality and calculations.
