@@ -26,3 +26,4 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 <br/>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+https://api.githubtrends.io/user/svg/siraj3838/langs?time_range=one_year&theme=bright_lights
