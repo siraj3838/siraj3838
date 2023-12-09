@@ -10,6 +10,10 @@
 ## My Gmail: ⤵️
 <a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+## 🌐 My Socials site:
+
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nishatprofile?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mosharof_nishat)
+
 ## :computer: Which Technology I know
 ### Front-End: ⤵️
 I use HTML, CSS, Tailwind CSS and Daisy UI for front-end UI design and React Js for dynamic route. Uses JavaScript for functionality and calculations.
