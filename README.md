@@ -27,8 +27,6 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 </p>
 <br/>
 
-## Most Used Language Lines
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/siraj3838/langs)](https://githubtrends.io)
 
 ## My STATS
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siraj3838&theme=default)
@@ -36,3 +34,6 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siraj3838&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siraj3838&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siraj3838&theme=default&utcOffset=8)
+
+## Most Used Language Lines
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/siraj3838/langs)](https://githubtrends.io)
