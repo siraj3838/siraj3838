@@ -26,7 +26,7 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 </p>
 <br/>
 
-## Most Used Languages
+## Most Used Language Lines
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/siraj3838/langs)](https://githubtrends.io)
 
 ## My STATS
