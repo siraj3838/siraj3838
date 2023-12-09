@@ -34,7 +34,8 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 ## My Latest Projects:
 
 ### 1/ Inventory Management
-● 
+● This project of mine is about Inventory Management. This project has been given functionality features to create new shop and calculate all shop owner's information. Website to collect their income and investment information
+<br/>
 <a href="https://mgi-inventory-manage.web.app">
   Live Website
 </a>
