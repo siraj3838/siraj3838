@@ -31,6 +31,14 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 </p>
 <br/>
 
+## My Latest Projects:
+
+### 1/ Inventory Management
+● 
+<p href="https://mgi-inventory-manage.web.app">
+  Live Website
+</p>
+
 
 ## 🌐 My Socials site:
 <a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
