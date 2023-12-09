@@ -1,6 +1,4 @@
 
-<a href="https://www.facebook.com/WKmohammad.sakil"><img src="https://icons8.com/icon/uLWV5A9vXIPu/facebook" alt="My Banner" /></a>
-
 <a href="https://www.linkedin.com/in/sirajul-islam-41845a2a0/">
 <img style='height: 400px' src="https://i.ibb.co/SVKV63Y/Screenshot-2023-12-09-142245.png" />
 </a>
