@@ -24,3 +24,5 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 <img style='width:120px; height: 70px' src="https://i.ibb.co/VjmPzWS/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purp.png"/>
 </p>
 <br/>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
