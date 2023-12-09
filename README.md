@@ -35,9 +35,9 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 
 ### 1/ Inventory Management
 ● 
-<p href="https://mgi-inventory-manage.web.app">
+<a href="https://mgi-inventory-manage.web.app">
   Live Website
-</p>
+</a>
 
 
 ## 🌐 My Socials site:
