@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/sirajul-islam-41845a2a0/">
-<img src="https://i.ibb.co/Xpx4SjW/1683909809034.png" />
+<img src="https://i.ibb.co/SVKV63Y/Screenshot-2023-12-09-142245.png" />
 </a>
 
 <br/>
