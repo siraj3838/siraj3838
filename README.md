@@ -30,6 +30,8 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 ## My STATS
-[![](https://raw.githubusercontent.com/siraj3838/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/siraj3838/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/siraj3838/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/siraj3838/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siraj3838&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siraj3838&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siraj3838&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siraj3838&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siraj3838&theme=default&utcOffset=8)
