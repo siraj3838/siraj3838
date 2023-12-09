@@ -27,4 +27,5 @@ I use MongoDB, NodeJS and ExpressJS on the backend server to store all the front
 
 ## Most Used Languages
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-https://api.githubtrends.io/user/svg/siraj3838/langs?time_range=one_year&theme=bright_lights
+
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={siraj3838}&theme={theme_name}
