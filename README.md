@@ -11,12 +11,9 @@
 ## 🌐 My Socials site:
 <a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/WKmohammad.sakil)
-  <p align="center">
-    <a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/WKmohammad.sakil)
-  
-  </p>
+
+
+  <br/>
 
 ## :computer: Which Technology I know
 ### Front-End: ⤵️
