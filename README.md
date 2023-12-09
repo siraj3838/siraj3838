@@ -7,8 +7,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siraj3838&theme=prussian&card_width=1010)](https://git.io/streak-stats)
 
-## My Gmail: ⤵️
-<a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 🌐 My Socials site:
 <a href="mailto:sirajul.islam583853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
